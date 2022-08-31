@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ghector6.github.io/diasporaBlog/'
 languageCode = 'en-us'
-title = 'DIASPORA'
+title = 'DIASPORA: Learning path on solving this problem with Groovy by ghector6'
 theme='aether'
